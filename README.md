@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @TanishkaMane
-- 🌱 I’m currently exploring and studying Backend Technologies and Frameworks.
-- ✨ My hobbies are Dancing, swimming,etc
-- 👀 I’m interested in spirituality and understanding the psychology behind people's behaviour.
 - 📫 How to reach me - email-tanishkamane555@gmail.com
